@@ -43,7 +43,6 @@ Each module includes:
 * [ ] Module 8
 * [ ] Module 9
 * [ ] Module 10
-* [ ] Module 11
 
 ---
 

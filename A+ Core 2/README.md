@@ -33,6 +33,7 @@ Each module includes:
 
 (Updating as I complete each module)
 
+* [ ] Module 11
 * [ ] Module 12
 * [ ] Module 13
 * [ ] Module 14
@@ -44,7 +45,5 @@ Each module includes:
 * [ ] Module 20
 * [ ] Module 21
 * [ ] Module 22
-
----
 
 This repository is part of my journey to transition into IT and build real-world technical skills.

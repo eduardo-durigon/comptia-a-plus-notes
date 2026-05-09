@@ -33,7 +33,7 @@ Each module includes:
 
 (Updating as I complete each module)
 
-* [ ] Module 1
+* [x] Module 1
 * [ ] Module 2
 * [ ] Module 3
 * [ ] Module 4

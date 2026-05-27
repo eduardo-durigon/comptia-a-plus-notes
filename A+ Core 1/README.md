@@ -36,7 +36,7 @@ Each module includes:
 * [x] Module 1
 * [x] Module 2
 * [x] Module 3
-* [ ] Module 4
+* [x] Module 4
 * [ ] Module 5
 * [ ] Module 6
 * [ ] Module 7

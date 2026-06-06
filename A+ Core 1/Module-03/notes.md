@@ -1,5 +1,11 @@
 # Module 3 – Installing System Devices
 
+Related Lab
+
+This module includes a hands-on hardware analysis lab completed on an Apple M2 MacBook Air.
+
+➡️ View the lab: Module 3 – Computer Hardware and Architecture Analysis
+
 ## Topics Covered
 
 * Power Supply Units (PSUs)
@@ -736,9 +742,3 @@ One of the most valuable topics for me was understanding the differences between
 I also gained a better understanding of system memory technologies such as DDR generations, memory channels, and ECC RAM, along with the importance of selecting compatible motherboards, chipsets, and CPU sockets during upgrades or system builds.
 
 This module helped connect many hardware concepts together and gave me a much clearer picture of how computers are designed, optimized, and maintained in both consumer and enterprise environments.
-
-## Related Lab
-
-This module includes a hands-on hardware analysis lab completed on an Apple M2 MacBook Air.
-
-➡️ **View the lab:** [Module 3 – Computer Hardware and Architecture Analysis](https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026/tree/main/lab02-module3-hardware-architecture)

@@ -4,6 +4,14 @@
 
 ---
 
+## Related Hands-On Lab
+
+After studying the concepts in this module, I completed a practical troubleshooting lab on my Apple M2 MacBook Air to apply the theory in a real-world environment.
+
+➡️ [Module 4 MacBook Air Troubleshooting Lab](https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026/tree/main/lab03-module4-troubleshooting-PC-hardware)
+
+The lab includes hardware identification, Disk Utility diagnostics, Startup Options, Safe Mode testing, Activity Monitor analysis, battery health checks, display troubleshooting, audio and camera testing, log analysis, and backup configuration review.
+
 # Overview
 
 This module focused on troubleshooting PC hardware, firmware, boot issues, storage problems, overheating, display problems, and performance-related faults. The lessons covered how BIOS/UEFI initializes hardware, how the boot process works, and how technicians diagnose hardware failures using systematic troubleshooting methods.

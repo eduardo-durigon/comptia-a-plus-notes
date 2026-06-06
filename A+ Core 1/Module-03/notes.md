@@ -1,10 +1,10 @@
 # Module 3 – Installing System Devices
 
-Related Lab
+## Related Lab
 
 This module includes a hands-on hardware analysis lab completed on an Apple M2 MacBook Air.
 
-➡️ View the lab: Module 3 – Computer Hardware and Architecture Analysis
+➡️ [View the lab: Module 3 – Computer Hardware and Architecture Analysis](https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026/tree/main/lab02-module3-hardware-architecture)
 
 ## Topics Covered
 

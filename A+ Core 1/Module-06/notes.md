@@ -17,6 +17,12 @@ The module covered:
 * Common network protocols and ports
 * VLANs and VPNs
 
+## Related Lab
+
+To reinforce the networking concepts covered in this module, I completed a hands-on troubleshooting lab using macOS networking tools. The lab includes IP configuration analysis, gateway identification, DNS testing, connectivity verification, traceroute analysis, port testing, and DHCP configuration review.
+
+🔗 **Lab:** [Module 06 – Network Troubleshooting Lab](https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026/tree/main/lab05-module6-network-communications)
+
 ---
 
 ## Key Concepts

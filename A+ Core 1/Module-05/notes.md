@@ -28,6 +28,11 @@ The module also explored:
 
 This module emphasized understanding how network infrastructure operates and how technicians deploy, manage, and troubleshoot modern wired and wireless networks.
 
+### Related Lab - Network Discovery and Wi-Fi Analysis on macOS
+
+This hands-on lab focused on network interfaces, IP addressing, DNS configuration, default gateways, connectivity testing, Wi-Fi analysis, and local network discovery.
+
+🔗 [View Lab 04 – Network Discovery and Wi-Fi Analysis](https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026/tree/main/lab04-module5-network-discovery-wifi-analysis)
 ---
 
 # 5.1 Network Types

@@ -35,9 +35,11 @@ The module covered:
 
 ## Related Lab
 
-To reinforce the concepts covered in this module, I will complete a hands-on lab focused on network services and troubleshooting.
+🔗 **Associated Lab:**
 
-🔗 **Lab:** *To be added*
+https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026/tree/main/lab06-module7-supporting-network-services
+
+This hands-on lab demonstrates the networking services and troubleshooting concepts covered throughout Module 7.
 
 ---
 

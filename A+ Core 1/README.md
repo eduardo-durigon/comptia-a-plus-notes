@@ -41,7 +41,7 @@ Each module includes:
 * [x] Module 6
 * [x] Module 7
 * [x] Module 8
-* [ ] Module 9
+* [x] Module 9
 * [ ] Module 10
 
 ---

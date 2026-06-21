@@ -42,7 +42,7 @@ Each module includes:
 * [x] Module 7
 * [x] Module 8
 * [x] Module 9
-* [ ] Module 10
+* [x] Module 10
 
 ---
 

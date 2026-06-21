@@ -42,14 +42,6 @@ The module covered:
 * Print queue and spooler troubleshooting
 * Finisher unit troubleshooting
 
-## Related Lab
-
-🔗 **Associated Lab:**
-
-https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026
-
-This module included practical activities related to printer installation, network printing, printer security, maintenance procedures, and troubleshooting common printing problems.
-
 ---
 
 ## Key Concepts

@@ -40,13 +40,25 @@ The module covered:
 * Cloud storage
 * Content Delivery Networks (CDNs)
 
-## Related Lab
+## Related Hands-On Lab
 
-🔗 **Associated Lab:**
+After studying the concepts covered in Module 8, I completed a hands-on virtualization lab using UTM and Ubuntu Server 24.04.4 LTS.
 
-https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026
+The lab covers:
 
-This module included hands-on exercises exploring virtualization technologies, virtual machine configuration, cloud deployment models, and cloud service offerings.
+* Hypervisors
+* Virtual machines
+* CPU and memory allocation
+* Virtual storage
+* Virtual networking
+* Linux system verification
+* Internet connectivity
+* Recovery points
+
+🔗 **Hands-On Lab:**
+https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026/tree/main/lab07-module8-exploring-virtualization
+
+This lab demonstrates the practical application of the concepts studied in this module.
 
 ---
 

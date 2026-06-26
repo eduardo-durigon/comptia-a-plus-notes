@@ -44,11 +44,11 @@ The module covered:
 
 ## Related Lab
 
-🔗 **Associated Lab:**
+This module includes a practical lab demonstrating the concepts covered in these notes. The lab explores mobile device connectivity, wireless technologies, security settings, synchronization, enterprise mobility concepts, and common mobile troubleshooting procedures using a real iPhone 12.
 
-https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026
+🧪 **Lab 08 – Mobile Device Connectivity and Troubleshooting**
 
-This module included hands-on activities related to mobile device hardware, wireless technologies, enterprise device management, laptop upgrades, and troubleshooting mobile hardware failures.
+https://github.com/eduardo-durigon/endpoint-troubleshooting-labs-2026/tree/main/lab08-module9-mobile-device-connectivity-and-troubleshooting
 
 ---
 

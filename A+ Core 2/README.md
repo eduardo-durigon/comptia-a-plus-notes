@@ -34,7 +34,7 @@ Each module includes:
 (Updating as I complete each module)
 
 * [x] Module 11
-* [ ] Module 12
+* [x] Module 12
 * [ ] Module 13
 * [ ] Module 14
 * [ ] Module 15

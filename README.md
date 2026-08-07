@@ -11,7 +11,7 @@ This repository documents my journey studying for the CompTIA A+ certification.
 
 ## 📂 Structure
 
-* Core 1: Hardware, Networking, Troubleshooting
+* Core 1: Hardware, Networking, Troubleshooting (PASSED)
 * Core 2: Operating Systems, Security, Software
 
 Each module includes:

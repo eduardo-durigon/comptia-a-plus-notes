@@ -1,3 +1,5 @@
+<img width="1535" height="1024" alt="FF8 Doomtrain" src="https://github.com/user-attachments/assets/5fa3e97c-96a9-4b9c-a57c-35b5bc3e9d1a" />
+
 # 🔧 CompTIA A+ Core 1 (220-1101) (PASSED)
 
 This section of the repository documents my study progress for the CompTIA A+ Core 1 certification.

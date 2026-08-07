@@ -1,4 +1,4 @@
-# 🔧 CompTIA A+ Core 1 (220-1101)
+# 🔧 CompTIA A+ Core 1 (220-1101) (PASSED)
 
 This section of the repository documents my study progress for the CompTIA A+ Core 1 certification.
 
@@ -31,7 +31,6 @@ Each module includes:
 
 ## 📊 Progress
 
-(Updating as I complete each module)
 
 * [x] Module 1
 * [x] Module 2

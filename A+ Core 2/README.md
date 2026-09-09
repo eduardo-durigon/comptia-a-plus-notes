@@ -42,7 +42,7 @@ Each module includes:
 * [x] Module 17
 * [x] Module 18
 * [x] Module 19
-* [ ] Module 20
+* [x] Module 20
 * [ ] Module 21
 * [ ] Module 22
 

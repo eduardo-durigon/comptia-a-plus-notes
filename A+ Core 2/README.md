@@ -44,6 +44,6 @@ Each module includes:
 * [x] Module 19
 * [x] Module 20
 * [x] Module 21
-* [ ] Module 22
+* [x] Module 22
 
 This repository is part of my journey to transition into IT and build real-world technical skills.

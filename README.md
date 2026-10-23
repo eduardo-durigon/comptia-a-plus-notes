@@ -1,4 +1,6 @@
-# CompTIA A+
+<img width="1312" height="1199" alt="CompTIA A+ Passed_ Skeleton Victory" src="https://github.com/user-attachments/assets/b0aa0a8f-e2c1-4677-953f-fa9fd95f542a" />
+
+# CompTIA A+ (PASSED)
 
 This repository documents my journey studying for the CompTIA A+ certification.
 

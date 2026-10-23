@@ -1,6 +1,6 @@
 <img width="1312" height="1199" alt="Get Job Ready" src="https://github.com/user-attachments/assets/fa4db27e-e54a-4638-96b4-1854319251a5" />
 
-# 💻 CompTIA A+ Core 2 (220-1102)
+# 💻 CompTIA A+ Core 2 (220-1102) (PASSED)
 
 This section of the repository documents my study progress for the CompTIA A+ Core 2 certification.
 
